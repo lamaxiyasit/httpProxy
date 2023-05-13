@@ -7,6 +7,6 @@ package server;
  */
 public class ServerMain {
     public static void main(String[] args) {
-        System.out.println("hello http");
+        System.out.println("hello Server");
     }
 }
