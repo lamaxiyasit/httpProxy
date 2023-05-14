@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06f3d901-c6dd-434f-8558-f3073e02ee50" name="Changes" comment="create Server">
-      <change beforePath="$PROJECT_DIR$/src/main/java/server/ServerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/ServerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683981514621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create Server">
+      <created>1683981833997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683981833997</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create Server">
+      <created>1683983452681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683983452681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create Server">
+      <created>1683984189528</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683984189528</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
